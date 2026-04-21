@@ -16,6 +16,9 @@ const config = {
 
   organizationName: 'jhonyrsa',
   projectName: 'jhonyrsa.github.io',
+
+  deploymentBranch: 'gh-pages',
+  
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
