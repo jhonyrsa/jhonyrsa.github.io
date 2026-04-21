@@ -7,10 +7,6 @@ const config = {
   tagline: 'Estudante de engenharia, apaixonado por tecnologia',
   favicon: 'img/programacao.ico',
 
-  future: {
-    v4: true,
-  },
-
   url: 'https://jhonyrsa.github.io',
   baseUrl: '/',
 
@@ -18,9 +14,8 @@ const config = {
   projectName: 'jhonyrsa.github.io',
 
   deploymentBranch: 'gh-pages',
-  
-  trailingSlash: false,
 
+  trailingSlash: false,
   onBrokenLinks: 'throw',
 
   i18n: {
@@ -32,12 +27,10 @@ const config = {
     [
       'classic',
       {
-        docs: false,
-        blog: {
-          showReadingTime: true,
-        },
+        docs: false,      // 🚫 DESATIVADO
+        blog: false,      // 🚫 DESATIVADO
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: require.resolve('./src/css/custom.css'),
         },
       },
     ],
@@ -54,20 +47,12 @@ const config = {
       title: 'Jhony Almeida',
       items: [
         { to: '/', label: 'Início', position: 'left' },
-        { to: '/blog', label: 'Blog', position: 'left' },
       ],
     },
 
     footer: {
       style: 'dark',
       links: [
-        {
-          title: 'Site',
-          items: [
-            { label: 'Início', to: '/' },
-            { label: 'Blog', to: '/blog' },
-          ],
-        },
         {
           title: 'Contato',
           items: [
