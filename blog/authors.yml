@@ -10,6 +10,18 @@ yangshun:
     github: yangshun
     newsletter: https://www.greatfrontend.com
 
+jhony:
+  name: Jhony Almeida
+  title: Estudante de Engenharia Elétrica e Bacharel em Administração
+  url: https://linkedin.com/in/jhonyrsa
+  image_url: "/img/jhony.jpg"
+  page: true
+  socials:
+    x: jhonyrsa
+    linkedin: jhonyrsa
+    github: jhonyrsa
+    email: mailto:jhonyrsa@gmail.com
+
 slorber:
   name: Sébastien Lorber
   title: Docusaurus maintainer
