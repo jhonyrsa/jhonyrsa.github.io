@@ -27,7 +27,7 @@ export default function Home() {
             </h1>
 
             <p className="hero-role">
-              Engenharia Elétrica + Desenvolvedor
+              Estudante de Engenharia Elétrica, apaixonado por ciências exatas, programação, tecnologias e energia!
             </p>
 
             <p className="hero-description">

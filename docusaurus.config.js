@@ -51,6 +51,10 @@ const config = {
 
     navbar: {
       title: 'Jhony Almeida',
+      logo: {
+      alt: 'Jhony Almeida',
+      src: 'img/programacao.ico',
+  },
       items: [
         { to: '/', label: 'Início', position: 'left' },
         { to: '/blog', label: 'Blog', position: 'left' },
