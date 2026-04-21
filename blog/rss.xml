@@ -4,10 +4,24 @@
         <title>Jhony Almeida Blog</title>
         <link>https://jhonyrsa.github.io/blog</link>
         <description>Jhony Almeida Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>pt-BR</language>
+        <item>
+            <title><![CDATA[Primeiro Post! O que vem por aí?]]></title>
+            <link>https://jhonyrsa.github.io/blog/primeiro-post</link>
+            <guid>https://jhonyrsa.github.io/blog/primeiro-post</guid>
+            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bom, este é um primeiro relato do TCC que venho desenvolvendo com meu amigo Gabriel Bot.]]></description>
+            <content:encoded><![CDATA[<p>Bom, este é um primeiro relato do TCC que venho desenvolvendo com meu amigo Gabriel Bot.
+Mais voltado na qualidade de energia, estamos estudando a microrrede da UFTM, localizada no ICTE.
+Inicialmente é possível verificar mais informações em: gabrielbot.github.io/microrrede-UFTM</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="mas-e-agora">Mas e agora?<a href="https://jhonyrsa.github.io/blog/primeiro-post#mas-e-agora" class="hash-link" aria-label="Link direto para Mas e agora?" title="Link direto para Mas e agora?" translate="no">​</a></h2>
+<p><strong>minha nossa</strong></p>]]></content:encoded>
+            <category>tcc</category>
+            <category>qualidade-de-energia</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://jhonyrsa.github.io/blog/welcome</link>

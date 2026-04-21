@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjhony_site=self.webpackChunkjhony_site||[]).push([["683"],{8276(t){t.exports=JSON.parse('{"tag":{"label":"tcc","permalink":"/blog/tags/tcc","allTagsPath":"/blog/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/blog/tags/tcc","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

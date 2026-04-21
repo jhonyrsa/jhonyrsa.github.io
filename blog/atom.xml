@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jhonyrsa.github.io/blog</id>
     <title>Jhony Almeida Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2026-04-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jhonyrsa.github.io/blog"/>
     <subtitle>Jhony Almeida Blog</subtitle>
     <icon>https://jhonyrsa.github.io/img/programacao.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Primeiro Post! O que vem por aí?]]></title>
+        <id>https://jhonyrsa.github.io/blog/primeiro-post</id>
+        <link href="https://jhonyrsa.github.io/blog/primeiro-post"/>
+        <updated>2026-04-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bom, este é um primeiro relato do TCC que venho desenvolvendo com meu amigo Gabriel Bot.]]></summary>
+        <content type="html"><![CDATA[<p>Bom, este é um primeiro relato do TCC que venho desenvolvendo com meu amigo Gabriel Bot.
+Mais voltado na qualidade de energia, estamos estudando a microrrede da UFTM, localizada no ICTE.
+Inicialmente é possível verificar mais informações em: gabrielbot.github.io/microrrede-UFTM</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="mas-e-agora">Mas e agora?<a href="https://jhonyrsa.github.io/blog/primeiro-post#mas-e-agora" class="hash-link" aria-label="Link direto para Mas e agora?" title="Link direto para Mas e agora?" translate="no">​</a></h2>
+<p><strong>minha nossa</strong></p>]]></content>
+        <author>
+            <name>Jhony Almeida</name>
+            <uri>https://linkedin.com/in/jhonyrsa</uri>
+        </author>
+        <category label="tcc" term="tcc"/>
+        <category label="qualidade-de-energia" term="qualidade-de-energia"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://jhonyrsa.github.io/blog/welcome</id>
@@ -52,8 +70,8 @@
 <div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#F8F8F2"><span class="token operator">&lt;</span><span class="token plain">button onClick</span><span class="token operator">=</span><span class="token punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token plain"> </span><span class="token arrow operator">=&gt;</span><span class="token plain"> </span><span class="token function" style="color:rgb(80, 250, 123)">alert</span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token string" style="color:rgb(255, 121, 198)">'button clicked!'</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token punctuation" style="color:rgb(248, 248, 242)">}</span><span class="token operator">&gt;</span><span class="token maybe-class-name">Click</span><span class="token plain"> me</span><span class="token operator">!</span><span class="token operator">&lt;</span><span class="token operator">/</span><span class="token plain">button</span><span class="token operator">&gt;</span><br></div></code></pre></div></div>
 <button>Click me!</button>]]></content>
         <author>
-            <name>Sébastien Lorber</name>
-            <uri>https://sebastienlorber.com</uri>
+            <name>Jhony Almeida</name>
+            <uri>https://linkedin.com/in/jhonyrsa</uri>
         </author>
         <category label="Docusaurus" term="Docusaurus"/>
     </entry>
