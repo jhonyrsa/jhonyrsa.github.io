@@ -31,5 +31,16 @@ const sidebars = {
   ],
    */
 };
+module.exports = {
+  tutorialSidebar: [
+    'about',
+    'intro',
+    'work-experience',
+    'education',
+    'skills',
+    'projects',
+    'premios-certificados'
+  ],
+};
 
 export default sidebars;

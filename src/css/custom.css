@@ -98,3 +98,10 @@
 .footer__link-item:hover {
   color: var(--ifm-color-primary);
 }
+.navbar__title {
+  color: inherit !important;
+}
+
+.navbar__title:hover {
+  color: var(--ifm-color-primary);
+}

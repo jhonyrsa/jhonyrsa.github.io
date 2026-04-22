@@ -52,16 +52,22 @@ const config = {
     },
 
     navbar: {
-      title: 'Jhony Almeida',
-      logo: {
-      alt: 'Jhony Almeida',
-      src: 'img/programacao.ico',
+  title: 'Jhony Almeida',
+  logo: {
+    alt: 'Jhony Almeida',
+    src: 'img/programacao.ico',
   },
-      items: [
+  items: [
     { to: '/', label: 'Início', position: 'left' },
-    { to: '/about', label: 'Sobre Mim', position: 'left' }, // 👈 NOVO
+    {
+      to: '/docs/about',
+      label: 'Sobre Mim',
+      position: 'left',
+      activeBaseRegex: '^/docs/',
+    },
     { to: '/blog', label: 'Blog', position: 'left' },
   ],
+},
     },
 
     footer: {
