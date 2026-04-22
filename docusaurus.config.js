@@ -31,7 +31,9 @@ const config = {
     [
       'classic',
       {
-        docs: false,
+        docs: {
+          sidebarPath: './sidebars.js',
+        },
         blog: {
           showReadingTime: true,
         },
