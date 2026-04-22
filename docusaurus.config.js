@@ -56,9 +56,10 @@ const config = {
       src: 'img/programacao.ico',
   },
       items: [
-        { to: '/', label: 'Início', position: 'left' },
-        { to: '/blog', label: 'Blog', position: 'left' },
-      ],
+    { to: '/', label: 'Início', position: 'left' },
+    { to: '/about', label: 'Sobre Mim', position: 'left' }, // 👈 NOVO
+    { to: '/blog', label: 'Blog', position: 'left' },
+  ],
     },
 
     footer: {
